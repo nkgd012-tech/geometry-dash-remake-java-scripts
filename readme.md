@@ -1,4 +1,4 @@
-# Geometry Dash for gb300
+# Geometry Dash JS for gb300
 a weird gd remake for js
 
 use mquickjs made by sajnaps(synaps33) to play this game
